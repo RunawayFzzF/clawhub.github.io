@@ -9,9 +9,7 @@ header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
-    - 测试
-    - test
-    - tags
+    - markdown
 ---
 
 <!-- Chinese Version -->
