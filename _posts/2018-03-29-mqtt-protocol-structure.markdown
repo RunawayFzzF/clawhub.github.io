@@ -4,7 +4,7 @@ title:        "MQTT协议解析"
 subtitle:     "mqtt 包结构"
 date:         2018-03-29 14:52:00
 author:       "ClawHub"
-header-img:   "img/in-post/2018-03-29-mqtt-protocol-structure/mqtt-structure.png"
+header-img:   "img/in-post/2018-03-29-mqtt-protocol-structure/mqtt-structure.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
