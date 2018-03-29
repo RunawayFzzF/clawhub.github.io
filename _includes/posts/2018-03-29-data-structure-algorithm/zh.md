@@ -10,6 +10,7 @@
 
 参考资料：
 
-[1]: https://blog.csdn.net/qq_36016407/article/details/55002328	"数据结构 和 算法 的概念"
-[2]: https://www.cnblogs.com/wsnb/p/5172431.html	"数据结构和算法"
+[数据结构 和 算法 的概念](https://blog.csdn.net/qq_36016407/article/details/55002328){:target="_blank"}
+
+[数据结构和算法](https://www.cnblogs.com/wsnb/p/5172431.html){:target="_blank"}​
 
