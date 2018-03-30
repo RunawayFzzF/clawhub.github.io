@@ -14,12 +14,12 @@ tags:
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include posts/2018-03-29-data-structure-linear/zh.md %}{% endcapture %}
+    {% capture about_zh %}{% include posts/2018-03-30-data-structure-linear/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-    {% capture about_en %}{% include posts/2018-03-29-data-structure-linear/en.md %}{% endcapture %}
+    {% capture about_en %}{% include posts/2018-03-30-data-structure-linear/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
