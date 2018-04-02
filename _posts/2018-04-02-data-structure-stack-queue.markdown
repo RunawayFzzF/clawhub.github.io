@@ -2,7 +2,7 @@
 layout:       post
 title:        "数据结构学习三"
 subtitle:     "栈与队列"
-date:         2018-03-30 16:06:00
+date:         2018-04-02 14:11:00
 author:       "ClawHub"
 header-img:   "img/in-post/2018-03-29-data-structure-algorithm/data-structure.jpg"
 header-mask:  0.3
