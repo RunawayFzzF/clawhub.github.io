@@ -1,15 +1,15 @@
 ---
 layout:       post
-title:        "LevelDb学习一"
+title:        "LevelDB学习一"
 subtitle:     "入门"
 date:         2018-04-12 19:50:00
 author:       "ClawHub"
-header-img:   "img/in-post/2018-04-12-level-db-basics/level-db.jpg"
+header-img:   "img/in-post/2018-04-12-level-db-basics/level_db.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
-    - LevelDb
+    - LevelDB
 ---
 
 <!-- Chinese Version -->
