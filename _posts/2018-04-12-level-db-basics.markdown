@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "LevelDB学习一"
+title:        "LevelDB入门"
 subtitle:     "入门"
 date:         2018-04-12 19:50:00
 author:       "ClawHub"
