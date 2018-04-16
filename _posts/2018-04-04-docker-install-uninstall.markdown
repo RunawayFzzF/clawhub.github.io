@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Docker学习一"
+title:        "Docker安装与卸载"
 subtitle:     "centos7下Docker安装与卸载"
 date:         2018-04-04 11:15:00
 author:       "ClawHub"
