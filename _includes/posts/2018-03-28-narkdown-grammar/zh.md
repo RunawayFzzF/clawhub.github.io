@@ -13,3 +13,5 @@
 [简明教程](https://www.appinn.com/markdown/)
 
 [Markdown实用技巧－链接和图片](https://www.gcssloop.com/markdown/markdown-links)
+
+[CSDN-markdown编辑器语法——字体、字号与颜色](https://blog.csdn.net/testcs_dn/article/details/45719357)
