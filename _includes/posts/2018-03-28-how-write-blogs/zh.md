@@ -19,3 +19,12 @@ https://github.com/ClawHub/clawhub.github.io.git
 ## 三 新建md文件
 
 ![](/img/in-post/2018-03-28-how-write-blogs/4.png)
+
+补充=======
+
+![](/img/in-post/2018-03-28-how-write-blogs/5.png)
+
+![](/img/in-post/2018-03-28-how-write-blogs/6.png)
+
+![](/img/in-post/2018-03-28-how-write-blogs/7.png)
+
